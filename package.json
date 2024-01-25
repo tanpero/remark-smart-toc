@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "build": "tsup",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -29,17 +29,10 @@
   },
   "homepage": "https://github.com/tanpero/remark-smart-toc#readme",
   "devDependencies": {
-    "@types/jest": "^29.5.11",
-    "jest": "^29.7.0",
     "mdast-util-toc": "^7.0.0",
-    "remark": "^15.0.1",
-    "ts-jest": "^29.1.2",
-    "ts-node": "^10.9.2",
-    "tsup": "^8.0.1",
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "mdast-util-toc": "^7.0.0",
-    "remark": "^15.0.1"
+    "mdast-util-toc": "^7.0.0"
   }
 }
