@@ -1,0 +1,25 @@
+{
+  "name": "remark-smart-toc",
+  "version": "0.1.0",
+  "description": "Implementing intelligent Markdown directory syntax, better than existing solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanpero/remark-smart-toc.git"
+  },
+  "keywords": [
+    "Markdown",
+    "Remark",
+    "Unified",
+    "TOC"
+  ],
+  "author": "Camille",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanpero/remark-smart-toc/issues"
+  },
+  "homepage": "https://github.com/tanpero/remark-smart-toc#readme"
+}
