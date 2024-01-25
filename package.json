@@ -23,7 +23,11 @@
   },
   "homepage": "https://github.com/tanpero/remark-smart-toc#readme",
   "devDependencies": {
+    "mdast-util-toc": "^7.0.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "mdast-util-toc": "^7.0.0"
   }
 }
