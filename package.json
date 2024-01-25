@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/tanpero/remark-smart-toc/issues"
   },
-  "homepage": "https://github.com/tanpero/remark-smart-toc#readme"
+  "homepage": "https://github.com/tanpero/remark-smart-toc#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
 }
